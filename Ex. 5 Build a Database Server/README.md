@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: JOSHUA BENNY K C
-* **Register Number**: 212224030013
-* **Date of Submission**: 22.05.26
+* **Name**: POOJA PRIYA B
+* **Register Number**: 212224230196
+* **Date of Submission**: 19.03.2026
 
 ---
 
@@ -115,3 +115,4 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Result
 
+This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
